@@ -11,3 +11,7 @@ Run the app by typing "node bamazonCustomer.js" in the command line.
 
 You will then be presented with all the items in the inventory and prompted to select the id of the item you would like to purchase. If the item and its quantity is in stock, your bid will be placed and you will see the items price.
 
+![Screen Shot 2019-04-26 at 2 30 10 PM](https://user-images.githubusercontent.com/46974642/56832601-13b82700-6832-11e9-90d1-1658a787865e.png)
+![Screen Shot 2019-04-26 at 2 30 24 PM](https://user-images.githubusercontent.com/46974642/56832606-174bae00-6832-11e9-9653-67d6ca551011.png)
+
+ENJOY!
